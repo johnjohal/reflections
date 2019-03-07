@@ -5,5 +5,6 @@ Arun has gone out to the rec!!!
 This change is in shop branch.
 
 This is a line added on 7/3.
-This is a second line added on 7/3.
-This is a rd line added on 7/3.
+This is the second line added locally on 7/3.
+This is the third line added locally on 7/3.
+This fourth line was added on Github direct.
